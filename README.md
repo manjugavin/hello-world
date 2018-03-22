@@ -14,4 +14,10 @@ now let's leave
 >>>>>>> I made a change
 =======
 keep going..
+<<<<<<< HEAD
 >>>>>>> Change made to gitlab_new
+=======
+I fed up...
+
+Repo Repository..
+>>>>>>> Repo repository
