@@ -10,4 +10,8 @@ MCA Repository
 
 =======
 now let's leave
+<<<<<<< HEAD
 >>>>>>> I made a change
+=======
+keep going..
+>>>>>>> Change made to gitlab_new
